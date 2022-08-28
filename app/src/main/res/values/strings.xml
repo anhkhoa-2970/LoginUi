@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaiTap4</string>
+    <!-- strings.xml -->
+
+    <string name="forgot_your_password">Forgot your password</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="login">Login</string>
+    <string name="or_connect_with">or connect with</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="dont_have_acc">Dont have account?</string>
+    <string name="sign_up"><u><b><i>Sign Up</i></b></u></string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    values-sw480dp
+    <dimen name="padding_20">20sp</dimen>
+    <dimen name="edittext_width_240">240dp</dimen>
+    <dimen name="edittext_height_40">40dp</dimen>
+    <dimen name="imageView1_100">100dp</dimen>
+    <dimen name="dimen_0dp">0dp</dimen>
+    <dimen name="large_text_size">25sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="title_margin_top72">72dp</dimen>
+    <dimen name="email_margin_top">80dp</dimen>
+    <dimen name="password_margin_top">25dp</dimen>
+    <dimen name="btnLogin_margin_top">40dp</dimen>
+    <dimen name="forgotPassword_margin_top">35dp</dimen>
+    <dimen name="orConnect_margin_top">25dp</dimen>
+    <dimen name="dontHaveAccount_margin_top">55dp</dimen>
+    <dimen name="button_width_150dp">150dp</dimen>
+    <dimen name="button_height_35dp">35dp</dimen>
+    <dimen name="drawble_padding_12dp">12dp</dimen>
+    <dimen name="btnFacebook_margin_top">60dp</dimen>
+
+
+</resources>
